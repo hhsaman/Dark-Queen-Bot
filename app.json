@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "*⦁◊═⦁ QUEEN ALEXA⦁═◊⦁*
+            "value": "*⦁◊═⦁ DARK QUEEN⦁═◊⦁*"
         },
         "SONGD": {
             "description": "Customizable Song Download message",
